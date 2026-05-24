@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "chzk",
+	"version": "${version}",
+	"name": "CHzK",
+	"description": "This mod displays Chzzk(by NAVER) chat as an in-game chat in Minecraft.",
+	"authors": [
+		"nextIra999"
+	],
+	"contact": {
+		"homepage": "https://nextira999/github.io/chzk",
+		"sources": "https://github.com/nextira999/CHzK"
+	},
+	"license": "MIT",
+	"icon": "assets/chzk/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"io.github.nextira999.CHzK"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
