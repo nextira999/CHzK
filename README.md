@@ -1,7 +1,8 @@
-**[현재 이 모드는 한국어만 지원합니다!]**
+**[현재 이 모드는 한국어만 지원합니다! / Currently, this mod only supports Korean!]**
 
-**[Currently, this mod only supports Korean!]**
+** [Please click [here](#English) to view the English description.] **
 
+# 한국어
 # CHzK
 CHzk(이하 '치즈크' 혹은 '치직')은 마인크래프트 채팅에 치지직 생방송 채팅을 표시하는 모드입니다.
 
@@ -48,3 +49,57 @@ CHzk(이하 '치즈크' 혹은 '치직')은 마인크래프트 채팅에 치지�
 ## 오류 제보 및 의견
 
 오류를 제보하거나, 개발에 의견을 제시하고자 하신다면 [이슈](https://github.com/nextira999/CHzK)에 남겨주세요.
+
+--- 
+
+# English
+This was written using a translation tool.
+
+# CHzK 
+CHzK is a mod that displays live chat from Chizchiz in Minecraft chat.
+
+AI was utilized in the development of this mod.
+
+## Supported Features
+
+The currently supported features are as follows:
+
+- Real-time chat integration
+- Donation chat integration (coming soon)
+- Subscription chat integration (coming soon)
+
+## How to Use
+
+All commands follow the format `/chzk {command}`.
+
+An internet connection is required.
+
+### How to Find a Channel ID
+
+1. Go to the channel you want to configure.
+2. The channel page URL will look like this: 
+- - chzzk.naver.com/abcde12345
+- - chzzk.naver.com/live/abcde12345
+3. Here, **abcde12345** is the channel ID.
+
+### Single-Player Mode
+
+Set the channel ID using `set {channel id}`. This ID is stored locally semi-permanently (until the file is deleted).
+
+After setting it, use `on` to connect to the chat server.
+
+Use `off` to disconnect.
+
+### Multiplayer
+
+This is not officially supported at this time and has not been tested.
+
+## License
+
+All source code is licensed under the MIT License. For more details, please refer to [LICENSE](https://github.com/nextira999/CHzK/blob/main/LICENSE).
+
+## Bug Reports and Feedback
+
+If you wish to report a bug or provide feedback on development, please leave a [ticket](https://github.com/nextira999/CHzK).
+
+Translated with DeepL.com (free version)
