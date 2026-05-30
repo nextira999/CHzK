@@ -1,6 +1,7 @@
 **[현재 이 모드는 한국어만 지원합니다! / Currently, this mod only supports Korean!]**
 
-** [Please click [here](#English) to view the English description.] **
+Please click [here](#English) to view the English description.
+(The links on Modrinth don't work when clicked, so please just scroll down to view them.)
 
 # 한국어
 # CHzK
@@ -48,7 +49,7 @@ CHzk(이하 '치즈크' 혹은 '치직')은 마인크래프트 채팅에 치지�
 
 ## 오류 제보 및 의견
 
-오류를 제보하거나, 개발에 의견을 제시하고자 하신다면 [이슈](https://github.com/nextira999/CHzK)에 남겨주세요.
+오류를 제보하거나, 개발에 의견을 제시하고자 하신다면 [이슈](https://github.com/nextira999/CHzK/issues)에 남겨주세요.
 
 --- 
 
@@ -100,6 +101,4 @@ All source code is licensed under the MIT License. For more details, please refe
 
 ## Bug Reports and Feedback
 
-If you wish to report a bug or provide feedback on development, please leave a [ticket](https://github.com/nextira999/CHzK).
-
-Translated with DeepL.com (free version)
+If you wish to report a bug or provide feedback on development, please leave a [Issues](https://github.com/nextira999/CHzK/issues).
