@@ -57,7 +57,7 @@ CHzk(이하 '치즈크' 혹은 '치직')은 마인크래프트 채팅에 치지�
 This was written using a translation tool.
 
 # CHzK 
-CHzK is a mod that displays live chat from Chizchiz in Minecraft chat.
+CHzK is a mod that displays live chat from Chzzk in Minecraft chat.
 
 AI was utilized in the development of this mod.
 
