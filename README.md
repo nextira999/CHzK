@@ -3,6 +3,10 @@
 Please click [here](#English) to view the English description.
 (The links on Modrinth don't work when clicked, so please just scroll down to view them.)
 
+본 모드는 네이버 주식회사와 관련이 없는, 개인이 개발한 모드입니다.
+
+This mod is not affiliated with Naver Corporation; it was developed by an individual.
+
 # 한국어
 # CHzK
 CHzk(이하 '치즈크' 혹은 '치직')은 마인크래프트 채팅에 치지직 생방송 채팅을 표시하는 모드입니다.
